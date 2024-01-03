@@ -18,3 +18,17 @@ a list of some common colors along with their hexadecimal values:
     Teal: #008080
     Orange: #FFA500
     Gold: #FFD700
+
+## hi
+
+    font-family: Arial, sans-serif;
+    font-family: Arial, sans-serif;
+    font-family: "Times New Roman", serif;
+    font-family: "Courier New", monospace;
+    font-family: Georgia, serif;
+    font-family: Verdana, Geneva, sans-serif;
+    font-family: "Arial Black", sans-serif;
+    font-family: Impact, Charcoal, sans-serif;
+    font-family: "Palatino", "Book Antiqua", serif;
+    font-family: "Lucida Console", Monaco, monospace;
+    font-family: "Trebuchet MS", sans-serif;
